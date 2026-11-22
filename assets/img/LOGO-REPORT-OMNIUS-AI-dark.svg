@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 160" role="img" aria-label="Report Omnius AI">
+  <title>Report Omnius AI — su fondo scuro</title>
+  <g transform="translate(26,20) skewX(-20)">
+    <rect x="0" y="0" width="26" height="88" rx="3" fill="#009246"/>
+    <rect x="36" y="0" width="26" height="88" rx="3" fill="#FFFFFF"/>
+    <rect x="72" y="0" width="26" height="88" rx="3" fill="#CE2B37"/>
+  </g>
+  <text x="150" y="86" font-family="'Barlow Condensed','Arial Narrow',Arial,sans-serif" font-weight="800" font-style="italic" font-size="76" letter-spacing="3" fill="#FFFFFF">REPORT</text>
+  <text x="152" y="126" font-family="'Barlow',Arial,sans-serif" font-weight="700" font-size="33" letter-spacing="6"><tspan fill="#009246">OMNIUS</tspan><tspan fill="#FFFFFF" dx="14"> </tspan><tspan fill="#CE2B37">AI</tspan></text>
+  <path d="M462 22 L468 36 L482 42 L468 48 L462 62 L456 48 L442 42 L456 36 Z" fill="#CE2B37"/>
+</svg>
